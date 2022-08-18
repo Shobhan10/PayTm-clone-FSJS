@@ -10,7 +10,7 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 
 ### Screenshot
 
-![Paytm-clone Screenshot](./paytm-clone.jpeg)
+![Paytm-clone Screenshot](./Paytm-clone.jpeg)
 
 - ### Learnings from this project:-
 
