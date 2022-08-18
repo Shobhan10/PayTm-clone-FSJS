@@ -1,6 +1,6 @@
 # Paytm Clone
 
-Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`, `CSS` and `Tailiwnd css`.
+Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`, `CSS` and `Tailiwnd CSS`.
 
 <br>
 
