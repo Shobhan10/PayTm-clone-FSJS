@@ -18,4 +18,4 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 
 - It took more than _2 days_ to complete.
 
-- Live Link:- [Paytm Clone](https://streetstyle-fsjs1.netlify.app/)
+- Live Link:- [Paytm Clone](https://paytm-clone-fsjs.netlify.app/)
